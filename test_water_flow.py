@@ -1,6 +1,6 @@
 """
 Test functions for water_flow.py
-This file includes tests for all functions including the exceeding enhancement which is kpa_to_psi conversion function in this case.
+This file includes tests for all functions including the exceeding enhancement which is kpa_to_psi conversion function in this case...
 """
 
 from pytest import approx
